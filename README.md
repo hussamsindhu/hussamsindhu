@@ -2,8 +2,7 @@
 
 ## About
 
-## 📫 How to reach me:
-
+ <h2>📫 How to reach me</h2>
 <div align="center" >
 <!-- Gmail -->
 <a href="mailto:hussamsindhu@gmail.com"><img src="./icons/Gmail-Dark.svg" width="40"></a>
@@ -19,8 +18,7 @@
 <a href="https://leetcode.com/u/hussamsindhu/" target="_blank"><img src="./icons/LeetCode.png" width="40" target="_blank"></a>
 </div>
 
-## Tech Stack
-
+<h2>Tech Stack</h2>
 <div align="center">
 <img src="./icons/NextJS-Dark.svg" width="40" target="_blank">
 <img src="./icons/React-Dark.svg" width="40" target="_blank">
