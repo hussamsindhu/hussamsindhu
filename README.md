@@ -1,21 +1,25 @@
-# Welcome To My Profile 👋
+# Welcome To My Profile 👋✨🚀
 
-## About
+**"You give honor to whom You will, and You disgrace whom You will."**
 
+**"My Lord, increase me in knowledge."**
+
+<h2>About</h2>
+<p style="font-size: 16px;">I am Hussam, Full-Stack developer from Pakistan 🇵🇰</p>
  <h2>📫 How to reach me</h2>
 <div align="center" >
 <!-- Gmail -->
-<a href="mailto:hussamsindhu@gmail.com"><img src="./icons/Gmail-Dark.svg" width="40"></a>
+<a href="mailto:hussamsindhu@gmail.com" target="_blank"><img src="./icons/Gmail-Dark.svg" width="40"></a>
   <!-- WhatsApp -->
-  <a href="https://wa.me/923346481902"><img src="./icons/whatsapp.svg" width="40" alt="WhatsApp"></a>
+  <a href="https://wa.me/923346481902" target="_blank"><img src="./icons/whatsapp.svg" width="40"></a>
 <!-- linkedin -->
-<a href="https://www.linkedin.com/in/hussamsindhu/" target="_blank" ><img src="./icons/LinkedIn.svg" width="40" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hussamsindhu/" target="_blank" ><img src="./icons/LinkedIn.svg" width="40"></a>
 <!-- StackOverflow -->
-<a href="https://stackoverflow.com/users/11535467/hussamsindhu" target="_blank"><img src="./icons/StackOverflow-Dark.svg" width="40" target="_blank"></a>
+<a href="https://stackoverflow.com/users/11535467/hussamsindhu" target="_blank"><img src="./icons/StackOverflow-Dark.svg" width="40"></a>
 <!-- Codewars -->
-<a href="https://www.codewars.com/users/hussamsindhu" target="_blank"><img src="./icons/codewars.png" width="40" target="_blank"></a>
+<a href="https://www.codewars.com/users/hussamsindhu" target="_blank"><img src="./icons/codewars.png" width="40"></a>
 <!-- leetcode -->
-<a href="https://leetcode.com/u/hussamsindhu/" target="_blank"><img src="./icons/LeetCode.png" width="40" target="_blank"></a>
+<a href="https://leetcode.com/u/hussamsindhu/" target="_blank"><img src="./icons/LeetCode.png" width="40"></a>
 </div>
 
 <h2>Tech Stack</h2>
