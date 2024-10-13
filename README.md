@@ -9,9 +9,9 @@
  <h2>📫 How to reach me</h2>
 <div align="center" >
 <!-- Gmail -->
-<a href="mailto:hussamsindhu@gmail.com" target="_blank"><img src="./icons/Gmail-Dark.svg" width="40"></a>
+<a href="mailto:hussamuddin997@gmail.com" target="_blank"><img src="./icons/Gmail-Dark.svg" width="40" title="hussamuddin997@gmail.com"></a>
   <!-- WhatsApp -->
-  <a href="https://wa.me/923346481902" target="_blank"><img src="./icons/whatsapp.svg" width="40"></a>
+  <a href="https://wa.me/923346481902" target="_blank"><img src="./icons/whatsapp.svg" width="40" title="+92 334 64 81 902" ></a>
 <!-- linkedin -->
 <a href="https://www.linkedin.com/in/hussamsindhu/" target="_blank" ><img src="./icons/LinkedIn.svg" width="40"></a>
 <!-- StackOverflow -->
